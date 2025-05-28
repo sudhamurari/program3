@@ -55,6 +55,6 @@ class Employee extends Person {
 public class program3 {
     public static void main(String[] args) {
         Employee emp = new Employee("John Doe", "15-05-1990", "EMP102", 75000);
-        emp.displayEmployeeDetails();
+        emp.displayEmployeeDetalkils();
     }
 }
